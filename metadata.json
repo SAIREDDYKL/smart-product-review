@@ -1,0 +1,6 @@
+{
+  "name": "PriceWise",
+  "description": "An AI shopping assistant that tracks prices, predicts price drops, detects fake discounts, and recommends cheaper alternatives so you never overpay.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
